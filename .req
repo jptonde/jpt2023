@@ -1,9 +1,0 @@
-spacy==3.5.1
-nltk==3.8.1
-pandas
-numpy
-sklearn
-sympy
-matplotlib
-seaborn
-scikit-learn
